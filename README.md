@@ -47,7 +47,7 @@ The "Daily Activity Metrics" data file is a key component of our analysis, allow
 So, let's embark on this adventure together! 
 (Note: Replace "path/to/your/Daily%20activity%20metrics.csv" with the actual path or URL to your "Daily Activity Metrics" data file on GitHub.)
 
-### Explore My Personal Activity Insights!
+### [Explore My Personal Activity Insights](https://github.com/KhaingSuThway/personal-google-fit-data-analysis/blob/76605331a6bf747bce02496f55725826a8f9afa2/PersonalActivityInsights.ipynb)
 
 Curious to dive deep into the secrets of the fitness journey? Look no further! Discover the wonders of personal fitness data through the "PersonalActivityInsights.ipynb" notebook. This captivating notebook takes you on an exciting data exploration and visualization adventure, unraveling valuable insights hidden within how my fitness metrics was.
 
