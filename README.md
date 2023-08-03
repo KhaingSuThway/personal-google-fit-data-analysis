@@ -37,3 +37,15 @@ Now comes the exciting part! Keep an eager eye on our notifications, as Google w
 As soon as we receive the green light, unleash our data prowess and download the Data Archive. Excitement will build as we unzip the archive, revealing the invaluable fitness data within!
 
 The stage is set, and the data awaits! Let's dive in and let the data exploration begin! 🚀🔍📈
+
+## ["Daily Activity Metrics" Data File](https://github.com/KhaingSuThway/personal-google-fit-data-analysis/blob/6586569176e99b8a691cc51a359606da8bb98f07/Daily%20activity%20metrics.csv)
+
+In this exciting data analysis project, we'll be diving into the mysteries of my fitness journey using the "Daily Activity Metrics" data file. This CSV file contains a treasure trove of information about my daily fitness activities, capturing valuable insights about my move minutes count, calories burned, distance covered, step count, and more.
+
+The "Daily Activity Metrics" data file is a key component of our analysis, allowing us to unravel the secrets of my fitness rhythms throughout the year. With the power of data visualization and the magic of Python, we'll uncover patterns, trends, and moments of triumph in my fitness journey.
+
+So, let's embark on this adventure together! Click here to access the "Daily Activity Metrics" data file and let the exploration begin! 🚀📊💪
+
+(Note: Replace "path/to/your/Daily%20activity%20metrics.csv" with the actual path or URL to your "Daily Activity Metrics" data file on GitHub.)
+
+
