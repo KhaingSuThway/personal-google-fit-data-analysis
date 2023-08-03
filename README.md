@@ -14,13 +14,13 @@ Equipped with my trusty Amazfit GTS 4 mini, I synced my activity data to Google 
 
 Get ready to join me on an exhilarating data adventure like no other! 🌟 Armed with my trusty Amazfit GTS 4 mini and the power of Google Fit, I've embarked on an epic quest to unravel the mysteries hidden within my fitness data. While some data, like heart rate, may be missing due to my new journey with this watch, fear not! We'll work our magic with the treasure trove of data from Google Takeout, trying our best to extract meaningful insights and fascinating discoveries.
 
-As I sync my activity data through the Zepp application, I can't help but feel a surge of excitement. The insights offered so far might be informative, but they lack that spark of personal connection that truly motivates me. That's where our data analyst prowess comes in! This is more than just data exploration; it's a quest for personal growth and self-discovery. We'll dive into the nitty-gritty of data cleaning. From there, we'll craft dazzling visualizations that will paint a vivid picture of my activity evolution over time.
+As I sync my activity data through the Zepp application, I can't help but feel a surge of excitement. The insights offered so far might be informative, but they lack that spark of personal connection that truly motivates me. That's where my data analyst prowess comes in! This is more than just data exploration; it's a quest for my personal growth and self-discovery. Let's dive into the nitty-gritty of data cleaning. From there, we'll craft dazzling visualizations that will paint a vivid picture of my activity evolution over time.
 
 While some data may be missing, remember that every data point is a piece of the puzzle, and it can still guide us towards meaningful discoveries. Let's turn this data exploration into a thrilling ride of self-improvement and exploration. Are you ready to embrace the unknown and discover the wonders hidden within our data? Let's embark on this exciting journey of data exploration and personal growth! 🚀🔍💪
 
 
 ### Data Extract and Setup 📦🔍
-To begin our exhilarating data journey, we'll first need to extract and set up the precious fitness data from Google Fit. Fear not, for it's a straightforward process that will soon unveil a wealth of insights!
+To begin the exhilarating data journey, we'll first need to extract and set up the precious fitness data from Google Fit. Fear not, for it's a straightforward process that will soon unveil a wealth of insights!
 
 ***Step 1: Journey to takeout.google.com 🌐***
 
