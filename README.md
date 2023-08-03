@@ -22,10 +22,12 @@ While some data may be missing, remember that every data point is a piece of the
 ### Data Extract and Setup 📦🔍
 To begin our exhilarating data journey, we'll first need to extract and set up the precious fitness data from Google Fit. Fear not, for it's a straightforward process that will soon unveil a wealth of insights!
 
-*** Step 1: Journey to takeout.google.com 🌐 *** 
+__* Step 1: Journey to takeout.google.com 🌐 *__
+
 First, embark on a virtual quest to takeout.google.com. This is where we'll find the gateway to our treasure trove of fitness data.
 
-*** Step 2: Select Google Fit and Initiate Export 🏃‍♂️📅 ***
+__* Step 2: Select Google Fit and Initiate Export 🏃‍♂️📅 *__
+
 Once at takeout.google.com, navigate to the Google Fit section and initiate an export of our fitness data. Think of it as creating our data expedition package!
 
 *** Step 3: Await the Data Archive 🕰️📦 *** 
